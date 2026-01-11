@@ -1,0 +1,22 @@
+#button-row {
+    display: flex;
+    justify-content: space-evenly;
+    height: 70px;
+    gap: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#button-row button {
+    flex: 1;
+}
+
+#score {
+    text-align: center;
+}
+
+#results {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
